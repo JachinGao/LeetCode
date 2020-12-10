@@ -1,5 +1,3 @@
-import java.util.List;
-
 public class P_21 {
     public static void main(String[] args) {
         ListNode l1 = new ListNode(1);
