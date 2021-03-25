@@ -6,6 +6,7 @@ target/
 *.ipr
 *.iws
 *.log
+*.iml
 
 #eclipse
 .project
