@@ -1,5 +1,6 @@
 package com.example.p21;
 
+import com.example.base.ListNode;
 import org.junit.Test;
 
 public class SolutionTest {

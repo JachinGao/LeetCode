@@ -1,5 +1,6 @@
 package com.example.p24;
 
+import com.example.base.ListNode;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

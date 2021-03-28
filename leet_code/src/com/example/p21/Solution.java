@@ -1,5 +1,7 @@
 package com.example.p21;
 
+import com.example.base.ListNode;
+
 public class Solution {
 
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

@@ -1,5 +1,7 @@
 package com.example.p24;
 
+import com.example.base.ListNode;
+
 public class Solution {
 
     public ListNode swapPairs(ListNode head) {
